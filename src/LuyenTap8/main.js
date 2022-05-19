@@ -1,0 +1,3 @@
+// viết function có đầu vào là arr, và callback
+// function trả ra kết quả theo yêu cầu
+// VD trả về số lớn nhất, trả về số nhỏ nhất, trả về text lớn nhất, nhỏ nhất ...

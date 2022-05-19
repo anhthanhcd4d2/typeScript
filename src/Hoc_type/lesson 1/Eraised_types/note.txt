@@ -1,0 +1,1 @@
+khi chuyển dữ liệu  tywf type => js thì nó sẽ khai báo lại và loại bỏ hết các kiểu dữ liệu dể js hiểu dc.
